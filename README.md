@@ -6,7 +6,8 @@ The purpose of the report is to analyze sales performance across various product
 <a href="https://github.com/MSingh136/Sales-Project/blob/main/SuperStore_Sales_Dataset.csv">Super store Data</a>
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/0f75cb7d-bb16-433f-94a7-6bfcb2dfe093)
+![saless](https://github.com/user-attachments/assets/4bc28f90-ee0a-493f-8bc9-cf5beb9219b2)
+
 
 ## Key Questions:
 1. Which product categories have the highest sales?
